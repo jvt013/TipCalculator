@@ -22,7 +22,10 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [Add a background color settings; a split bill feature] List anything else that you can get done to improve the app functionality!
+- [Welcome screen] 
+
+List anything else that you can get done to improve the app functionality!
+-[Add a background color settings; a split bill feature]
 
 ## Video Walkthrough 
 
